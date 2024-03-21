@@ -1,0 +1,1 @@
+When an exception is never caught, it propagates up through the call stack until it either encounters a catch block that can handle it or until it reaches the top-level of the program where it results in program termination.

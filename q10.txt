@@ -1,0 +1,2 @@
+MyException caught
+C++ Exception

@@ -1,0 +1,4 @@
+Trying.
+Starting sample_function.
+Catching.
+End of program.

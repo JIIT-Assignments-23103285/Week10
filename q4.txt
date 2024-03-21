@@ -1,0 +1,1 @@
+When a throw statement is executed, it interrupts the normal flow of the program and passes control to the nearest enclosing catch block that can handle the type of exception thrown. If no suitable catch block is found, the program terminates abnormally.

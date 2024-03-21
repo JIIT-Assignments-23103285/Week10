@@ -1,0 +1,4 @@
+Try block entered.
+Exception thrown with
+wait_time equal to 46
+After catch block.
